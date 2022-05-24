@@ -1,6 +1,6 @@
 {
-	"ip":"kurdishcitysurvival.aternos.me",
-	"port": "42893",
-	"name": "KCRPBot",
-	"auto-night-skip":"true"
+	"ip":"UniverseCraft1.aternos.me",
+	"port": "25674",
+	"name": "XM Bot",
+	"auto-night-skip":"false"
 }

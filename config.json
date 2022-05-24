@@ -1,6 +1,6 @@
 {
 	"ip":"UniverseCraft1.aternos.me",
 	"port": "25674",
-	"name": "XM Bot",
+	"name": "afkbot",
 	"auto-night-skip":"false"
 }
